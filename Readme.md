@@ -2,7 +2,7 @@
 Node.js HelloWorld Web-Server
 
 # Dependencies
-* [Node.js]: http://nodejs.org/
+* Node.js: http://nodejs.org/
 
 # Deployment
 Before first time deployment please execute:
